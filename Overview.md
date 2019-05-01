@@ -39,7 +39,10 @@ especially if you are into java, c#, c/c++
 * [Ralph Westphal](https://blog.ralfw.de/)
 
 ## Recomended books:
-*[Clean Code - Robert Martin](http://amzn.to/2zwOC63)
-*[Handreichung zum Clean Code Review - Ralf Westphal](https://www.amazon.de/Handreichungen-zum-Clean-Code-Review-ebook/dp/B0767LJSFB/)
+* [Clean Code - Robert Martin](http://amzn.to/2zwOC63)
+* [Handreichung zum Clean Code Review - Ralf Westphal](https://www.amazon.de/Handreichungen-zum-Clean-Code-Review-ebook/dp/B0767LJSFB/)
 * Code Refactoring ???
 * free books???
+
+Cheers
+Robert
