@@ -1,6 +1,7 @@
 This will be my overview of the Udacity activities i had:
+#Actitvities on Udacity#
 
-#Udacity - Intro to Self Driving Car Engineer
+##Udacity - Intro to Self Driving Car Engineer(ISDCE)##
 ==============================================
 1. Project: Martix calculation (Python)
 2. Translate Python into c++
@@ -11,17 +12,17 @@ This will be my overview of the Udacity activities i had:
 8. A Trafficlight classifier(Python)
 
 
-#Udacity - Self Driving Car Engineer (Part I)
+##Udacity - Self Driving Car Engineer -Part I(ISDC_I)##
 ==============================================
 Not started yet...TBC
 
 
-#Udacity - Intro to Self Driving Car Engineer (part II)
+##Udacity - Self Driving Car Engineer - Part II(ISDC_II)##
 ========================================================
 Not started yet... TBC
 
-
-##Links for CleanCodeDevelopment(CCD):
+#Clean Code Development#
+##Links for CleanCodeDevelopment(CCD):##
 ========================================================
 * [clean code developer](https://clean-code-developer.de/)
 * [clean code development school](https://ccd-school.de/)
@@ -36,7 +37,7 @@ Not started yet... TBC
 * [Stefan Lieser](https://lieser-online.de/)
 * [Ralph Westphal](https://blog.ralfw.de/)
 
-##Recomended books(CCD):**
+##Recomended books(CCD):##
 =====================================================================
 *[Clean Code - Robert Martin](http://amzn.to/2zwOC63)
 *[Handreichung zum Clean Code Review - Ralf Westphal](https://www.amazon.de/Handreichungen-zum-Clean-Code-Review-ebook/dp/B0767LJSFB/)
