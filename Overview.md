@@ -14,11 +14,11 @@ The code will mainly be written in python or c++.
  8. A Trafficlight classifier(Python)
  9. A jupiter notebook example for online learnings 
 
-## II. Udacity - Self Driving Car Engineer -Part I(ISDC_I) 
+## II. Udacity - Self Driving Car Engineer -Part I(SDCE_I) 
   _Not started yet...TBC_
 
 
-## III. Udacity - Self Driving Car Engineer - Part II(ISDC_II)
+## III. Udacity - Self Driving Car Engineer - Part II(SDCE_II)
   _Not started yet... TBC_
 
 # Clean Code Development(CCD)
