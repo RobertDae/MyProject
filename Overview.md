@@ -1,7 +1,9 @@
 
 # Actitvities on [Udacity](https://eu.udacity.com/)
 This repo will be used from myself for code that is have written during my udacity lessons.
-The code will mainly be written in python or c++.
+It is a really cool program to get a certain specific knowledge you need for your job.
+
+The code commited here will mainly be written in python or c++.
 
  ## [1. Udacity - Intro to Self Driving Car Engineer](README_ISDCE.MD)
   1. Matrix calculation (Python)
