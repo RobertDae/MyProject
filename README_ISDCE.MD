@@ -3,11 +3,13 @@
 in oder to execute the different projects the following guildes are helpfull:
 
  - [How to install a jupiternotebook]()
- - [TBD]()
+ - [Install Python]()
+ - [Use VisualStudio for C++]()
  
- # Links:
+ 
+ # Links (i came across during the lessions):
   - [How to write markdown files like this readme](https://devhints.io/markdown)
-  - [editor for markdown files: dillinger.io] (https://dillinger.io/)
+  - [editor for markdown files: dillinger.io](https://dillinger.io/)
  
  Cheers
  Robert
