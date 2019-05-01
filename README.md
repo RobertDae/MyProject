@@ -20,7 +20,14 @@ Udacity - Intro to Self Driving Car Engineer (part II)
 ========================================================
 Not started yet... TBC
 
-good links for clean code development:
-[clean code developer][https://clean-code-developer.de/]
-[clean code development school][https://ccd-school.de/]
-[flow control]
+**good links for clean code development:**
+* [clean code developer](https://clean-code-developer.de/)
+* [clean code development school](https://ccd-school.de/)
+* [flow-design]
+** https://ccd-school.de/das-flow-design-cheat-sheet/
+** https://flow-design.org/
+
+**Important Authors and coders (concerning clean code programming)**
+* [Robert Martin](https://cleancoder.org/)
+* [Stefan lieser]()
+* [Ralph Westphal]()
