@@ -3,23 +3,23 @@
 This repo will be used from myself for code that is have written during my udacity lessons.
 The code will mainly be written in python or c++.
 
-## I. Udacity - Intro to Self Driving Car Engineer(ISDCE)
- 1. Matrix calculation (Python)
- 2. Kalman Filters(Python)
- 3. Translate a programm from python into C++
- 4. A robot sensing demo(C++)
- 5. Important issues to improve code (C++)
- 6. Implementation of a A* search pathfinder algorithm (python)
- 7. ImageProcessing with OpenCV (Python)
- 8. A Trafficlight classifier(Python)
- 9. A jupiter notebook example for online learnings 
+ ## I. Udacity - Intro to Self Driving Car Engineer(ISDCE)
+  1. Matrix calculation (Python)
+  2. Kalman Filters(Python)
+  3. Translate a programm from python into C++
+  4. A robot sensing demo(C++)
+  5. Important issues to improve code (C++)
+  6. Implementation of a A* search pathfinder algorithm (python)
+  7. ImageProcessing with OpenCV (Python)
+  8. A Trafficlight classifier(Python)
+  9. A jupiter notebook example for online learnings 
 
-## II. Udacity - Self Driving Car Engineer -Part I(SDCE_I) 
-  _Not started yet...TBC_
+ ## II. Udacity - Self Driving Car Engineer -Part I(SDCE_I) 
+   _Not started yet...TBC_
 
 
-## III. Udacity - Self Driving Car Engineer - Part II(SDCE_II)
-  _Not started yet... TBC_
+ ## III. Udacity - Self Driving Car Engineer - Part II(SDCE_II)
+   _Not started yet... TBC_
 
 # Clean Code Development(CCD)
 This section is just for me as a reminder to gather informations concerning the clean code development
