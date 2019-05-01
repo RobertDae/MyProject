@@ -20,12 +20,12 @@ _Not started yet...TBC_
 ## Udacity - Self Driving Car Engineer - Part II(ISDC_II)
 _Not started yet... TBC_
 
-# Clean Code Development
+# Clean Code Development(CCD)
 This section is just for me as a reminder to gather informations concerning the clean code development
 i came across during my buisness life. Perhaps some of you will also find the links intresting for code development
 especially if you are into java, c#, c/c++
 
-## Links for CleanCodeDevelopment(CCD):
+## Links:
 * [clean code developer](https://clean-code-developer.de/)
 * [clean code development school](https://ccd-school.de/)
 * [flow-design](https://flow-design.org/)
@@ -33,12 +33,12 @@ especially if you are into java, c#, c/c++
 * [Misra-C(DE)](https://de.wikipedia.org/wiki/MISRA-C)
 * [Misra.org](https://www.misra.org.uk/)
 
-## Important Authors(concerning clean code programming)
+## Authors
 * [Robert Martin](https://cleancoder.org/)
 * [Stefan Lieser](https://lieser-online.de/)
 * [Ralph Westphal](https://blog.ralfw.de/)
 
-## Recomended books(CCD):
+## Recomended books:
 *[Clean Code - Robert Martin](http://amzn.to/2zwOC63)
 *[Handreichung zum Clean Code Review - Ralf Westphal](https://www.amazon.de/Handreichungen-zum-Clean-Code-Review-ebook/dp/B0767LJSFB/)
 * Code Refactoring ???
