@@ -1,5 +1,7 @@
-This will be my overview of the Udacity activities i had:
+
 # Actitvities on Udacity
+This repo will be used from myself for code that is have written during my udacity lessons.
+The code will mainly be written in python or c++.
 
 ## Udacity - Intro to Self Driving Car Engineer(ISDCE)
 ==============================================
@@ -22,6 +24,10 @@ _Not started yet...TBC_
 _Not started yet... TBC_
 
 # Clean Code Development
+This section is just for me as a reminder to gather informations concerning the clean code development
+i came across during my buisness life. Perhaps some of you will also find the links intresting for code development
+especially if you are into java, c#, c/c++
+
 ## Links for CleanCodeDevelopment(CCD):
 ========================================================
 * [clean code developer](https://clean-code-developer.de/)
