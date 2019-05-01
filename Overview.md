@@ -26,24 +26,23 @@ This section is just for me as a reminder to gather informations concerning the 
 i came across during my buisness life. Perhaps some of you will also find the links intresting for code development
 especially if you are into java, c#, c/c++
 
-## Links:
-* [clean code developer](https://clean-code-developer.de/)
-* [clean code development school](https://ccd-school.de/)
-* [flow-design](https://flow-design.org/)
-* [flow-design-chaet-sheet](https://ccd-school.de/das-flow-design-cheat-sheet/)
-* [Misra-C(DE)](https://de.wikipedia.org/wiki/MISRA-C)
-* [Misra.org](https://www.misra.org.uk/)
+* ## Links:
+ * [clean code developer](https://clean-code-developer.de/)
+ * [clean code development school](https://ccd-school.de/)
+ * [flow-design](https://flow-design.org/)
+ * [flow-design-chaet-sheet](https://ccd-school.de/das-flow-design-cheat-sheet/)
+ * [Misra-C(DE)](https://de.wikipedia.org/wiki/MISRA-C)
+ * [Misra.org](https://www.misra.org.uk/)
 
-## Authors
-* [Robert Martin](https://cleancoder.org/)
-* [Stefan Lieser](https://lieser-online.de/)
-* [Ralph Westphal](https://blog.ralfw.de/)
+* ## Authors
+ * [Robert Martin](https://cleancoder.org/)
+ * [Stefan Lieser](https://lieser-online.de/)
+ * [Ralph Westphal](https://blog.ralfw.de/)
 
-## Recomended books:
-* [Clean Code - Robert Martin](http://amzn.to/2zwOC63)
-* [Handreichung zum Clean Code Review - Ralf Westphal](https://www.amazon.de/Handreichungen-zum-Clean-Code-Review-ebook/dp/B0767LJSFB/)
-* Code Refactoring ???
-* free books???
+* ## Recomended books:
+ * [Clean Code - Robert Martin](http://amzn.to/2zwOC63)
+ * [Handreichung zum Clean Code Review - Ralf Westphal](https://www.amazon.de/Handreichungen-zum-Clean-Code-Review-ebook/dp/B0767LJSFB/)
+ * Code Refactoring / free books???
 
 Cheers
 Robert
