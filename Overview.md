@@ -12,7 +12,7 @@ The code will mainly be written in python or c++.
  6. Implementation of a A* search pathfinder algorithm (python)
  7. ImageProcessing with OpenCV (Python)
  8. A Trafficlight classifier(Python)
- 9. TBD
+ 9. A jupiter notebook example for online learnings 
 
 * ## Udacity - Self Driving Car Engineer -Part I(ISDC_I) 
   _Not started yet...TBC_
