@@ -25,7 +25,7 @@ Not started yet... TBC
 * [clean code developer](https://clean-code-developer.de/)
 * [clean code development school](https://ccd-school.de/)
 * [flow-design](https://flow-design.org/)
-* [flowdesign chaet-sheet] (https://ccd-school.de/das-flow-design-cheat-sheet/)
+* [flow-design-chaet-sheet](https://ccd-school.de/das-flow-design-cheat-sheet/)
 * [Misra-C(DE)](https://de.wikipedia.org/wiki/MISRA-C)
 * [Misra.org](https://www.misra.org.uk/)
 
@@ -37,7 +37,6 @@ Not started yet... TBC
 
 **Recomended books:**
 =====================================================================
-[Clean Code - Robert Martin](http://amzn.to/2zwOC63)
-[Handreichung zum Clean Code Review - Ralf Westphal](https://www.amazon.de/Handreichungen-zum-Clean-Code-Review-ebook/dp/B0767LJSFB/)
-
-Code Refactoring ???
+*[Clean Code - Robert Martin](http://amzn.to/2zwOC63)
+*[Handreichung zum Clean Code Review - Ralf Westphal](https://www.amazon.de/Handreichungen-zum-Clean-Code-Review-ebook/dp/B0767LJSFB/)
+*Code Refactoring ???
